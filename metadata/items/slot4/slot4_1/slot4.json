@@ -1,0 +1,27 @@
+{
+  "name": "Functions and Modifiers in Solidity",
+  "description": "Learn about functions, function visibility, and modifiers in Solidity.",
+  "externalUri": "",
+  "external_url": "",
+  "image": "ipfs://QmT64P9mvyNKM8prk1GATPbXRKYUcpNDDHCvLAm6dm3wNM/thumb/slot4_1.png",
+  "mediaUri": "ipfs://QmT64P9mvyNKM8prk1GATPbXRKYUcpNDDHCvLAm6dm3wNM/equipped/slot4_1.png",
+  "thumbnailUri": "ipfs://QmT64P9mvyNKM8prk1GATPbXRKYUcpNDDHCvLAm6dm3wNM/thumb/slot4_1.png",
+  "preferThumb": true,
+  "attributes": [
+    {
+      "label": "Teacher",
+      "type": "string",
+      "value": "Bob Brown"
+    },
+    {
+      "label": "Duration hours",
+      "type": "number",
+      "value": 10
+    },
+    {
+      "label": "Date",
+      "type": "string",
+      "value": "2024-10-22"
+    }
+  ]
+}

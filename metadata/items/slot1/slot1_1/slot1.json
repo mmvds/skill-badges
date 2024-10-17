@@ -1,0 +1,27 @@
+{
+  "name": "Introduction to Solidity",
+  "description": "Basic concepts and syntax of the Solidity programming language.",
+  "externalUri": "",
+  "external_url": "",
+  "image": "ipfs://QmT64P9mvyNKM8prk1GATPbXRKYUcpNDDHCvLAm6dm3wNM/thumb/slot1_1.png",
+  "mediaUri": "ipfs://QmT64P9mvyNKM8prk1GATPbXRKYUcpNDDHCvLAm6dm3wNM/equipped/slot1_1.png",
+  "thumbnailUri": "ipfs://QmT64P9mvyNKM8prk1GATPbXRKYUcpNDDHCvLAm6dm3wNM/thumb/slot1_1.png",
+  "preferThumb": true,
+  "attributes": [
+    {
+      "label": "Teacher",
+      "type": "string",
+      "value": "John Smith"
+    },
+    {
+      "label": "Duration hours",
+      "type": "number",
+      "value": 8
+    },
+    {
+      "label": "Date",
+      "type": "string",
+      "value": "2024-10-16"
+    }
+  ]
+}

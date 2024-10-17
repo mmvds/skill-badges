@@ -1,0 +1,27 @@
+{
+  "name": "Events and Error Handling",
+  "description": "Implementing events and managing error handling in smart contracts.",
+  "externalUri": "",
+  "external_url": "",
+  "image": "ipfs://QmT64P9mvyNKM8prk1GATPbXRKYUcpNDDHCvLAm6dm3wNM/thumb/slot5_1.png",
+  "mediaUri": "ipfs://QmT64P9mvyNKM8prk1GATPbXRKYUcpNDDHCvLAm6dm3wNM/equipped/slot5_1.png",
+  "thumbnailUri": "ipfs://QmT64P9mvyNKM8prk1GATPbXRKYUcpNDDHCvLAm6dm3wNM/thumb/slot5_1.png",
+  "preferThumb": true,
+  "attributes": [
+    {
+      "label": "Teacher",
+      "type": "string",
+      "value": "Emma White"
+    },
+    {
+      "label": "Duration hours",
+      "type": "number",
+      "value": 8
+    },
+    {
+      "label": "Date",
+      "type": "string",
+      "value": "2024-10-24"
+    }
+  ]
+}

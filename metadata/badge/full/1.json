@@ -1,0 +1,31 @@
+{
+  "name": "Solidity Developer",
+  "description": "Solidity Developer Course",
+  "externalUri": "",
+  "external_url": "",
+  "image": "ipfs://QmT64P9mvyNKM8prk1GATPbXRKYUcpNDDHCvLAm6dm3wNM/skillbadge_1.png",
+  "mediaUri": "ipfs://QmT64P9mvyNKM8prk1GATPbXRKYUcpNDDHCvLAm6dm3wNM/skillbadge_1.png",
+  "thumbnailUri": "ipfs://QmT64P9mvyNKM8prk1GATPbXRKYUcpNDDHCvLAm6dm3wNM/skillbadge_1.png",
+  "attributes": [
+    {
+      "label": "Student",
+      "type": "string",
+      "value": "Ivan Ivanov"
+    },
+    {
+      "label": "Difficulty",
+      "type": "string",
+      "value": "medium"
+    },
+    {
+      "label": "Duration hours",
+      "type": "number",
+      "value": 100
+    },
+    {
+      "label": "Start Date",
+      "type": "string",
+      "value": "2024-10-12"
+    }
+  ]
+}

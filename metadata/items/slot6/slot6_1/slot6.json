@@ -1,0 +1,27 @@
+{
+  "name": "Advanced Solidity Concepts",
+  "description": "Exploring advanced topics like inheritance, libraries, and interfaces.",
+  "externalUri": "",
+  "external_url": "",
+  "image": "ipfs://QmT64P9mvyNKM8prk1GATPbXRKYUcpNDDHCvLAm6dm3wNM/thumb/slot6_1.png",
+  "mediaUri": "ipfs://QmT64P9mvyNKM8prk1GATPbXRKYUcpNDDHCvLAm6dm3wNM/equipped/slot6_1.png",
+  "thumbnailUri": "ipfs://QmT64P9mvyNKM8prk1GATPbXRKYUcpNDDHCvLAm6dm3wNM/thumb/slot6_1.png",
+  "preferThumb": true,
+  "attributes": [
+    {
+      "label": "Teacher",
+      "type": "string",
+      "value": "George Miller"
+    },
+    {
+      "label": "Duration hours",
+      "type": "number",
+      "value": 15
+    },
+    {
+      "label": "Date",
+      "type": "string",
+      "value": "2024-10-26"
+    }
+  ]
+}

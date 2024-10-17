@@ -1,0 +1,27 @@
+{
+  "name": "Smart Contracts Basics",
+  "description": "Understanding the principles of smart contracts and how to develop them.",
+  "externalUri": "",
+  "external_url": "",
+  "image": "ipfs://QmT64P9mvyNKM8prk1GATPbXRKYUcpNDDHCvLAm6dm3wNM/thumb/slot2_1.png",
+  "mediaUri": "ipfs://QmT64P9mvyNKM8prk1GATPbXRKYUcpNDDHCvLAm6dm3wNM/equipped/slot2_1.png",
+  "thumbnailUri": "ipfs://QmT64P9mvyNKM8prk1GATPbXRKYUcpNDDHCvLAm6dm3wNM/thumb/slot2_1.png",
+  "preferThumb": true,
+  "attributes": [
+    {
+      "label": "Teacher",
+      "type": "string",
+      "value": "Jane Doe"
+    },
+    {
+      "label": "Duration hours",
+      "type": "number",
+      "value": 12
+    },
+    {
+      "label": "Date",
+      "type": "string",
+      "value": "2024-10-18"
+    }
+  ]
+}
