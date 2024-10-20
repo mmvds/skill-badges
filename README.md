@@ -33,3 +33,26 @@ pnpm hardhat run ./scripts/run-deploy.ts
 ```bash
 pnpm hardhat run ./scripts/run-deploy.ts --network baseSepolia 
 ```
+
+# Тестовые юзкейсы по доработкам
+Для ответа на вопросы организаторов был написан `test/skill-badges.test.ts`
+- ERC-7401 (Nestable NFT) - неизвестный издатель не сможет отправить экипируемый бейдж, поскольку для каждого слота указаны адреса коллекции (контракты слотов), минтить в которые могут только конкретные адреса с ролью
+
+- Механики взаимодействия с **Verifiable Credentials** для повышения доверия к сертификатам и достижениям
+ERC-7508 (attributes storage) позволяет менять атрибуты заднным ролям, на роли можно назначать конкретных издателей 
+
+```bash
+pnpm test
+```
+
+```
+Minting NFTs by Publishers
+    ✔ Publisher1 can mint Slot NFTs and nest them into SkillBadges
+    ✔ User without contributor role cannot mint Slot NFTs
+Modifying Attributes by Publishers
+    ✔ Publisher1 can set string attribute of SkillBadges NFT
+    ✔ User without collaborator role cannot set string attribute
+Setting Valid Parents by Contributors
+    ✔ Publisher1 can set valid parent for equippable group
+    ✔ User without contributor role cannot set valid parent for equippable group
+```
