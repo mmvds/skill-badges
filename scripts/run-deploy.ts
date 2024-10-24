@@ -42,8 +42,8 @@ async function main() {
   console.log('Deployment complete!');
 
   // Mint SkillBadges NFTs to the specified addresses
-  const address1 = '0xe05762b1e030fA0b022DC6321162Ad322bf9bE64';
-  const address2 = '0x7fa379Ef108d3aDE710aF65e826Deb06e954659e';
+  const address1 = process.env.USER1_ADDRESS || '';
+  const address2 = process.env.USER2_ADDRESS || '';
 
   let tx = await skillBadges.mint(address1, 1, 1n);
   await tx.wait();

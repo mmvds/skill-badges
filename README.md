@@ -18,6 +18,8 @@ pnpm hardhat compile
 BASE_SEPOLIA_URL=<RPC url, можно получить, например на https://app.infura.io/>
 BASESCAN_API_KEY=<API key для верификации можно получить на https://sepolia.basescan.org/>
 PRIVATE_KEY=<ключ от кошелька с небольшим количеством тестовых base sepolia/>
+USER1_ADDRESS=<адрес кошелька первого пользователя для тестового минта>
+USER2_ADDRESS=<адрес кошелька второго пользователя для тестового минта>
 ```
 
 # Локальное развертывание контрактов
